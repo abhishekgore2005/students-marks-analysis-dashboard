@@ -27,7 +27,7 @@ To create a dynamic and visually intuitive dashboard that helps:
 - Student_Marks_Dataset.xlsx
 
 ## 🖼 Dashboard Preview
-You may include a screenshot here after uploading the image to GitHub or linking it.
+(https://github.com/abhishekgore2005/students-marks-analysis-dashboard/blob/main/dashboard%20screenshot%20.jpg)
 
 ## 🚀 Getting Started
 To explore the dashboard:
